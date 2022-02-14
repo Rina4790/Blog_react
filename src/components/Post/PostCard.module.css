@@ -1,0 +1,52 @@
+.card {
+  width: 296px;
+  /* height: 296px; */
+  margin-right: 41px;
+  margin-top: 29px;
+  padding: 28px 24px;
+  background: #ffffff;
+
+  box-shadow: 0px 6px 50px rgba(184, 196, 209, 0.15);
+  border-radius: 13px;
+}
+
+img {
+  width: 293px;
+  height: 120px;
+  border: 1px solid #ebebeb;
+  box-sizing: border-box;
+  border-radius: 11px;
+}
+
+.title {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+  margin: 2px 0;
+  color: #4f4f4f;
+}
+
+.text {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+  margin: 10px auto;
+  color: #979797;
+}
+
+.date {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+  color: #016efc;
+}

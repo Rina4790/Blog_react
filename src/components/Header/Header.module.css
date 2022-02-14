@@ -1,0 +1,37 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  background: #f8fafe;
+}
+
+.header_dark {
+  background-color: #016efc;
+}
+
+.menu {
+  display: block;
+  border: none;
+  border-radius: 0%;
+  width: 40px;
+  height: 30px;
+  margin: 50px 0px 50px 242px;
+  cursor: pointer;
+}
+
+.icon {
+  border: none;
+  border-radius: 0%;
+  width: auto;
+  height: auto;
+  margin-right: 13px;
+}
+
+.username {
+  margin: 0;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 145.2%;
+  color: #016efc;
+}
