@@ -1,0 +1,22 @@
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 242px;
+}
+
+.wrapper_dark {
+  padding-bottom: 50px;
+  background-color: #016efc;
+  background-image: url("public/img/fon.png");
+}
+
+.wrapper_light {
+	background: #F8FAFE;
+  padding-bottom: 50px;
+}
+
+.btn {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
