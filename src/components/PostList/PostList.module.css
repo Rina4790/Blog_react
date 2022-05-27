@@ -1,0 +1,40 @@
+.allPosts {
+  display: flex;
+  flex-direction: column;
+}
+
+.postList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 29px 41px;
+}
+
+.title {
+  width: 100%;
+}
+
+.loadButton {
+  margin-top: 50px;
+}
+
+.noPostsTitle {
+  margin: 30vh 0 0 30rem;
+}
+
+.background {
+  position: absolute;
+  background: #00000094;
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  left: 0;
+}
+
+.inner {
+  position: absolute;
+  background: white;
+  padding: 20px;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+}

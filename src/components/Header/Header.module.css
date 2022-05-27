@@ -1,0 +1,11 @@
+.header {
+  width: 100%;
+}
+
+.menu {
+  padding: 60px 0;
+}
+
+.menuButton {
+  cursor: pointer;
+}

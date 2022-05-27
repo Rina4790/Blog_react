@@ -1,0 +1,48 @@
+.login {
+  margin-top: 22px;
+}
+
+.login p {
+  margin: 0;
+}
+
+.mainForm {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+  margin-bottom: 100px;
+}
+
+.title a:first-of-type {
+  color: #016efc;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  padding: 100px 0 70px;
+}
+
+.info {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 134%;
+  letter-spacing: 0.03em;
+  color: #254050;
+}
+
+.info a {
+  font-weight: bold;
+  color: #016efc;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.background {
+  position: absolute;
+  right: 0;
+  z-index: -1;
+}

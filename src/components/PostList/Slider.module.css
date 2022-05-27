@@ -1,0 +1,22 @@
+.container {
+  position: relative;
+  width: 250px;
+  height: 230px;
+  background: red;
+  overflow: hidden;
+}
+
+.inner-container {
+  display: flex;
+  height: 100px;
+  width: 100%;
+  position: absolute;
+}
+
+.card {
+  width: 120px;
+  height: 200px;
+  background: black;
+  margin-right: 10px;
+  color: white;
+}
